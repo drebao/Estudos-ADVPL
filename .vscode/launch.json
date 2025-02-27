@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "TOTVS Language Debug",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "C:\\TOTVS\\Protheus2310\\Protheus\\bin\\smartclient\\smartclient.exe",
+			"isMultiSession": true,
+			"enableTableSync": true,
+			"extendFeatures": {
+				"charDetails": false
+			},
+			"enableMultiThread": true
+		}
+	],
+	"lastPrograms": [
+		{
+			"label": "u_olamundo"
+		},
+		{
+			"label": "u_nomFunction"
+		},
+		{
+			"label": "u_nomeFunction"
+		},
+		{
+			"label": "u_Variable"
+		},
+		{
+			"label": "u_OPERADOR"
+		},
+		{
+			"label": "u_estrutur"
+		},
+		{
+			"label": "u_docase"
+		},
+		{
+			"label": "u_pro"
+		},
+		{
+			"label": "u_outro"
+		},
+		{
+			"label": "u_array"
+		},
+		{
+			"label": "u_bloco"
+		},
+		{
+			"label": "u_advinha"
+		},
+		{
+			"label": "u_BANCO001"
+		},
+		{
+			"label": "u_BANCO002"
+		},
+		{
+			"label": "u_BANCO003"
+		},
+		{
+			"label": "u_banco008"
+		},
+		{
+			"label": "U_MODELO1"
+		},
+		{
+			"label": "U_modelos2"
+		},
+		{
+			"label": "U_nome98"
+		},
+		{
+			"label": "u_VARIAVEL"
+		},
+		{
+			"label": "u_CADSZ1"
+		},
+		{
+			"label": "u_zMVCMd1"
+		},
+		{
+			"label": "u_SQLEXCEL"
+		},
+		{
+			"label": "U_PRINTGRAPH"
+		},
+		{
+			"label": "U_TORIO"
+		},
+		{
+			"label": "U_RLTRIO"
+		},
+		{
+			"label": "U_RELATO"
+		},
+		{
+			"label": "u_ZEXE505"
+		},
+		{
+			"label": "u_zrelcliente"
+		},
+		{
+			"label": "U_zreport"
+		},
+		{
+			"label": "U_IMPGTREL01"
+		},
+		{
+			"label": "U_SQLEXCE0"
+		},
+		{
+			"label": "U_RELT"
+		},
+		{
+			"label": "SIGAMDI"
+		},
+		{
+			"label": "u_erest_01"
+		},
+		{
+			"label": "XXX"
+		},
+		{
+			"label": "u_testes"
+		},
+		{
+			"label": "u_mvc2"
+		},
+		{
+			"label": "U_FINR952S"
+		},
+		{
+			"label": "u_fenvrel"
+		},
+		{
+			"label": "U_EMAILTXT"
+		},
+		{
+			"label": "SIGACFG"
+		},
+		{
+			"label": "]"
+		}
+	],
+	"lastProgramExecuted": "<cancel>",
+	"lastProgramArguments": []
+}
